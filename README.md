@@ -1,1 +1,2 @@
-Exercice de gestion des conflits
+Exercice de gestion des conflits.
+Complément fait sur le master (correction urgente).
