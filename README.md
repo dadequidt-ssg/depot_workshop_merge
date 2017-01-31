@@ -10,4 +10,7 @@ Cet exercice pour tester la compréhension du rebase interactif.
 # partie 1
 Ajout de la partie 1.
 
+# partie 2
+Ajout de la partie 2.
+
 ## Fin exercice rebase
